@@ -100,7 +100,7 @@ def save_as():
         root.title(file_name+" - 小向记事本")
 
 def about_NotePad():
-    msg.showinfo("关于“小向记事本”","NotePad \n ©向璟宸 保留所有权利 \n 支持格式:.txt等大部分文本文档格式 \n 支持编码: UTF-8")
+    msg.showinfo("关于“小向记事本”","NotePad \n ©稗田阿柔 保留所有权利 \n 支持格式:.txt等大部分文本文档格式 \n 支持编码: UTF-8")
 
 def shellnew():
     a=msg.askokcancel("小向记事本","确定新建吗？您的窗口将会被清空。")
